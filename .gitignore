@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Debug and OS files
+debug_screens/
+.DS_Store
+*.log
+
+# ── CookiePilot specific ──────────────────────────────────────────
+user_settings.json
+user_settings_*.json
